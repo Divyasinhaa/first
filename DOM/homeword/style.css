@@ -1,0 +1,9 @@
+div{
+    background-color: coral;
+    height: 500px;
+    width: 500px;
+    border: 2px solid black;
+}
+.mode{
+    background-color: lightcoral;
+}
